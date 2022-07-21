@@ -1,7 +1,7 @@
 Hi 👋 My name is Mursyid Mahadi
 ===============================
 
-Web3 Blockchain Developer
+Fullstack Developer
 -------------------------
 
 * 🌍  I'm based in Nilai, Negeri Sembilan, Malaysia
