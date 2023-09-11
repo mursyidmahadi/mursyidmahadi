@@ -1,7 +1,7 @@
 Hi 👋 My name is Mursyid Mahadi
 ===============================
 
-Fullstack Developer
+AI/Machine Learning Engineer
 -------------------------
 
 * 🌍  I'm based in Nilai, Negeri Sembilan, Malaysia
