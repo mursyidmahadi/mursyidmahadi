@@ -1,7 +1,7 @@
 Hi 👋 My name is Mursyid Mahadi
 ===============================
 
-AI/Machine Learning Engineer
+IT Analyst
 -------------------------
 
 * 🌍  I'm based in Nilai, Negeri Sembilan, Malaysia
